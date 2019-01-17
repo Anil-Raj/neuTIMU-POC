@@ -14,7 +14,7 @@ export class ToolbarComponent implements OnInit {
 
   constructor(private adalService: AdalService, private router: Router) {
     this.user = this.adalService.getUser();
-    
+      console.log(this.adalService.userInfo);
   }
 
 

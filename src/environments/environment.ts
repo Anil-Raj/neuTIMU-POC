@@ -5,8 +5,8 @@
 export const environment = {
   production: false,
   config: {
-    tenant: 'neudesic.onmicrosoft.com',
-    clientId: 'fa4cca2b-2838-4dcb-9498-a962c5d452d4',
+    tenant: 'neutimu.onmicrosoft.com', 
+    clientId: '68bc3407-4574-42e7-a3f6-7f136e61d64b',
     endpoints: {
       'https://graph.microsoft.com': '00000003-0000-0000-c000-000000000000'
     },
